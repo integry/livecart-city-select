@@ -1,0 +1,8 @@
+CityImport=Cities
+City=City data
+City.code=Code
+City.name=Name
+State=State identification
+State.countryID=Country code
+State.code=State code
+State.name=State name
